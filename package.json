@@ -1,27 +1,28 @@
 {
-  "name": "bikcraft",
+  "name": "lescone",
   "version": "1.0.0",
-  "description": "Inclusão do sass no prjeto bikcraft",
+  "description": "Projeto final do curso de Sass da Origamid",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jpdrsanchez/bikcraft-sass.git"
+    "url": "git+https://github.com/jpdrsanchez/lescone.git"
   },
   "keywords": [
     "sass",
     "html",
-    "bikcraft",
-    "css"
+    "lescone",
+    "css",
+    "gulp"
   ],
   "author": "João Pedro Sanchez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jpdrsanchez/bikcraft-sass/issues"
+    "url": "https://github.com/jpdrsanchez/lescone/issues"
   },
-  "homepage": "https://github.com/jpdrsanchez/bikcraft-sass#readme",
+  "homepage": "https://github.com/jpdrsanchez/lescone#readme",
   "dependencies": {
     "gulp": "^4.0.2"
   },
