@@ -32,3 +32,7 @@ $fonte-2: 'Aref Ruqaa', serif;
 		line-height: em(30, 24);
 	}
 }
+
+@mixin box-shadow($shadow...) {
+	box-shadow: $shadow;
+}
